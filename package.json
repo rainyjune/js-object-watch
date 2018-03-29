@@ -2,9 +2,9 @@
   "name": "js-object-watch",
   "version": "1.0.0",
   "description": "watch js object change",
-  "main": "index.js",
+  "main": "watch.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -c"
   },
   "repository": {
     "type": "git",
